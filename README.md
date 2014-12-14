@@ -1,2 +1,3 @@
-Test first file.
-Second line, elipse commit.
+The JavaScript Design Validator application.
+
+See the wiki for details.
