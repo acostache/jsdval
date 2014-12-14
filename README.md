@@ -1,1 +1,2 @@
-Test first file
+Test first file.
+Second line, elipse commit.
